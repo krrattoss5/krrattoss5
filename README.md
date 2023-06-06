@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Didier Pereira</h1>
-<h3 align="center">A passionate FaullStack developer from Colombia</h3>
+<h1 align="center">Hola 👋, Soy Didier Pereira</h1>
+<h3 align="center">Un apasionado por el desarrollo FaullStack</h3>
 
 - 🔭Actualmente estoy trabajando en [Proyecto Final de Henry Bootcamp](https://github.com/Pf-henry-2023)
 
