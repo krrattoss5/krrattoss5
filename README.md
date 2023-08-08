@@ -7,7 +7,7 @@
 
 - 👨‍💻Todos mis proyectos están disponibles en [soon](soon)
 
-- 💬Pregúntame sobre React | JavaScript | HTML | CSS | Nodo.js**
+- 💬Pregúntame sobre React | JavaScript | HTML | CSS | Node.js**
 
 - 📫Cómo contactarme **krrattoss5@gmail.com**
 
