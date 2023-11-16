@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, Soy Didier Pereira</h1>
 <h3 align="center">Un apasionado por el desarrollo FullStack</h3>
 
-- 🔭Actualmente estoy trabajando en [Proyecto Final de Henry Bootcamp](https://github.com/Pf-henry-2023)
-
-- 🌱Actualmente estoy aprendiendo **Frameworks and Librarys**
+- 🌱Actualmente estoy aprendiendo **Frameworks and Librerias**
 
 - 👨‍💻Todos mis proyectos están disponibles en [soon](soon)
 
