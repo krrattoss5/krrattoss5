@@ -16,7 +16,10 @@
 
 - 📫 Como contactarme **krrattoss5@gmail.com**
 
-<h3 align="left">Contactame:</h3>
+## **Contactame:**
+
+<br>
+
 <p align="left">
 <a href="https://linkedin.com/in/didier-pereira-71145321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didier-pereira-71145321a" height="30" width="40" /></a>
 <a href="https://fb.com/darknesspsiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darknesspsiso" height="30" width="40" /></a>
@@ -24,7 +27,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Stack Tecnológico
+## 🛠 &nbsp;Stack Tecnológico
+
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -48,7 +53,9 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
+
+<br>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
