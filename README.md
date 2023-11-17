@@ -16,15 +16,6 @@
 
 - 📫 Como contactarme **krrattoss5@gmail.com**
 
-## **Contactame:**
-
-<br>
-
-<p align="left">
-<a href="https://linkedin.com/in/didier-pereira-71145321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didier-pereira-71145321a" height="30" width="40" /></a>
-<a href="https://fb.com/darknesspsiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darknesspsiso" height="30" width="40" /></a>
-</p>
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Stack Tecnológico
@@ -58,8 +49,16 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/krrattoss5">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krrattoss5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krrattoss5&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+## 🤝🏻 &nbsp;Contactame:
+
+<p align="center">
+<a href="https://linkedin.com/in/didier-pereira-71145321a/"><img src="https://img.shields.io/badge/-Didier%20Pereira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:krrattoss5@gmail.com"><img src="https://img.shields.io/badge/-krrattoss5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/DARKNESSPSISO"><img src="https://img.shields.io/badge/-Didier%20Pereira-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
