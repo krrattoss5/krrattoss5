@@ -1,26 +1,24 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQE3JsHxQslLyw/profile-displaybackgroundimage-shrink_350_1400/0/1722039020688?e=1727913600&v=beta&t=JNR2SSPm6Y_hJSm6C28geNfKPySvKQza3WuYZzFsHMY" style="width: 100%; margin-top: -20px;">
+
 <h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Didier Pereira</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Apasionado+FullStack+Developer+Colombiano;Henrry+Bootcamp+(MERN+Stack);Programador+autodidacta;Siempre+aprendiendo+Nuevas+Tecnologias"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi:**
-
-<br>
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mi:**
 
 - 🌱 Actualmente me encuentro creando proyectos y en constante aprendizaje **(Open to work)**
 
-- 👨‍💻 Muy pronto mi poltafolio: [https://didier-portfolio.vercel.app/](https://didier-portfolio.vercel.app/)
+- 👨‍💻 Muy pronto mi portafolio: [https://didier-portfolio.vercel.app/](https://didier-portfolio.vercel.app/)
 
-- 💬 Preguntame sobre **React, NextJs, Typescrip, Javascript, Node, Redux o Express**
+- 💬 Pregúntame sobre **React, NextJs, Typescrip, Javascript, Node, Redux o Express**
 
-- 📫 Como contactarme **krrattoss5@gmail.com**
+- 📫 Cómo contactarme **krrattoss5@gmail.com**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Stack Tecnológico
-
-<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
@@ -43,8 +41,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<br>
 
 <p align="center">
 <a href="https://github.com/krrattoss5">
